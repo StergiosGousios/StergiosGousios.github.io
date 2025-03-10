@@ -1,5 +1,5 @@
 <template>
-  <div class="relative bg-cover bg-center bg-[url('./MyImages/background.jpg')] pb-10 "> 
+    <div class="relative bg-cover bg-center bg-[url('/MyImages/background.jpg')] pb-10 "> 
     <Intro/>
     <div class="min-h-screen bg-gray-900 text-white md:w-9/10 max-w-6xl m-auto z-1 relative">
       <NavBar :socialLinks="socialLinks"/>
