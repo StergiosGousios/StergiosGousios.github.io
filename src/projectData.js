@@ -69,12 +69,12 @@ export const projects = [
       description: `This mobile-friendly React web application retrieves Covid-19 Pandemic Data from a Covid-19 Api and displays them in charts with the help of Charts.js and Material UI.`,
       production: {
         title: 'Netlify',
-        url:  "https://github.com/StergiosGousios/Covid-Tracker",
+        url:  "https://suspicious-hypatia-b85543.netlify.app/",
       },
       repositories:[
         {
           title: 'GitHub',
-          url: "https://github.com/StergiosGousios/E-Commerce",
+          url: "https://github.com/StergiosGousios/Covid-Tracker",
         },
       ]
     },
